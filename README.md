@@ -1,1 +1,1 @@
-Projekt powstaje w celu odświeżenia i poszerzenia wiedzy nabytej w szkole.
+Projekt powstaje w celu odświeżenia i poszerzenia wiedzy nabytej w szkole, a także jako portfolio do CV do pierwszej pracy w IT.
