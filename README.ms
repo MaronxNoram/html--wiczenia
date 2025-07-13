@@ -1,0 +1,1 @@
+Projekt powstaje w celu odświeżenia i poszerzenia wiedzy nabytej w szkole.
